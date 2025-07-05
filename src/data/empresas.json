@@ -14,7 +14,8 @@
             "/getFile/3code/2.jpg",
             "/getFile/3code/3.jpg",
             "/getFile/3code/4.jpg"
-        ]
+        ],
+        "logo": "/getFile/3code/logo.png"
     },
     {
         "id": "provix",
@@ -30,7 +31,8 @@
             "/getFile/provix/1.png",
             "/getFile/provix/2.png",
             "/getFile/provix/3.png"
-        ]
+        ],
+        "logo": "/getFile/provix/logo.png"
     },
     {
         "id": "concredito",
@@ -46,7 +48,8 @@
             "/getFile/concredito/1.png",
             "/getFile/concredito/2.png",
             "/getFile/concredito/3.png"
-        ]
+        ],
+        "logo": "/getFile/concredito/logo.png"
     },
     {
         "id": "doctorclinic",
@@ -62,7 +65,8 @@
             "/getFile/doctorclinic/1.png",
             "/getFile/doctorclinic/2.png",
             "/getFile/doctorclinic/3.png"
-        ]
+        ],
+        "logo": "/getFile/doctorclinic/logo.png"
     },
     {
         "id": "chapur",
@@ -78,7 +82,8 @@
             "/getFile/chapur/1.png",
             "/getFile/chapur/2.png",
             "/getFile/chapur/3.png"
-        ]
+        ],
+        "logo": "/getFile/chapur/logo.png"
     },
     {
         "id": "bepensa",
@@ -94,6 +99,7 @@
             "/getFile/bepensa/1.png",
             "/getFile/bepensa/2.png",
             "/getFile/bepensa/3.png"
-        ]
+        ],
+        "logo": "/getFile/bepensa/logo.png"
     }
 ]
