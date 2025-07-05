@@ -1,0 +1,99 @@
+[
+    {
+        "id": "3code",
+        "orden": 1,
+        "nombre": "3Code",
+        "descripcion": "3Code es una empresa especializada en el desarrollo de soluciones digitales a la medida, incluyendo aplicaciones móviles, sistemas web, páginas web y estrategias de marketing digital para empresas de diversos sectores.",
+        "link": "https://play.google.com/store/apps/details?id=com.gstrackme.gstrackme_v3",
+        "lenguajes": ["Java", "Kotlin"],
+        "puesto": "Desarrollador Android",
+        "periodo": "Enero 2018 a Febrero 2019",
+        "nombre-app": "GSTrackme",
+        "img": [
+            "/getFile/3code/1.jpg",
+            "/getFile/3code/2.jpg",
+            "/getFile/3code/3.jpg",
+            "/getFile/3code/4.jpg"
+        ]
+    },
+    {
+        "id": "provix",
+        "orden": 2,
+        "nombre": "Provix",
+        "descripcion": "Provix es una plataforma inteligente para la gestión de nómina, diseñada para optimizar, automatizar y simplificar los procesos administrativos de las empresas. Ofrece cálculos multiempresa, reportes, seguridad en la nube y una experiencia intuitiva para ahorrar tiempo y dinero.",
+        "link": "https://provix.com.mx/",
+        "lenguajes": ["PHP", "JavaScript", "CSS3", "Angular", "NodeJs", "PostgreSQL"],
+        "puesto": "Desarrollador Full Stack",
+        "periodo": "Febrero 2019 a Julio 2022",
+        "nombre-app": "Provix Nómina",
+        "img": [
+            "/getFile/provix/1.png",
+            "/getFile/provix/2.png",
+            "/getFile/provix/3.png"
+        ]
+    },
+    {
+        "id": "concredito",
+        "orden": 3,
+        "nombre": "ConCrédito",
+        "descripcion": "Empresa financiera especializada en otorgar créditos y servicios financieros a microempresarios y emprendedores en México.",
+        "link": "https://www.concredito.com.mx/",
+        "lenguajes": ["Java", "Kotlin", "SpringBoot", "MySQL"],
+        "puesto": "Desarrollador Android y Backend",
+        "periodo": "Julio 2022 a Febrero 2024",
+        "nombre-app": "1,2,3 PorMi",
+        "img": [
+            "/getFile/concredito/1.png",
+            "/getFile/concredito/2.png",
+            "/getFile/concredito/3.png"
+        ]
+    },
+    {
+        "id": "doctorclinic",
+        "orden": 4,
+        "nombre": "DoctorClinic",
+        "descripcion": "DoctorClinic es una plataforma digital de salud que ofrece consultas médicas por videollamada, teléfono y de manera presencial, cubriendo a toda la familia con atención 24/7, acceso a médicos generales y especialistas, y una amplia variedad de servicios médicos y descuentos.",
+        "link": "https://play.google.com/store/apps/details?id=cmp.labsteck.com",
+        "lenguajes": ["SpringBoot", "MySQL"],
+        "puesto": "Desarrollador Backend",
+        "periodo": "Febrero 2024 a Mayo 2024",
+        "nombre-app": "DrClinic",
+        "img": [
+            "/getFile/doctorclinic/1.png",
+            "/getFile/doctorclinic/2.png",
+            "/getFile/doctorclinic/3.png"
+        ]
+    },
+    {
+        "id": "chapur",
+        "orden": 5,
+        "nombre": "I+D Innovación Tecnológica / Tiendas Chapur",
+        "descripcion": "División tecnológica de Tiendas Chapur, dedicada al desarrollo de soluciones móviles para compras, pagos y promociones.",
+        "link": "https://play.google.com/store/apps/details?id=chapur.imasd.com.chapurandroid",
+        "lenguajes": ["Java", "Kotlin"],
+        "puesto": "Desarrollador Android",
+        "periodo": "Mayo 2024 a Noviembre 2024",
+        "nombre-app": "Chapur Móvil",
+        "img": [
+            "/getFile/chapur/1.png",
+            "/getFile/chapur/2.png",
+            "/getFile/chapur/3.png"
+        ]
+    },
+    {
+        "id": "bepensa",
+        "orden": 6,
+        "nombre": "Bepensa Bebidas",
+        "descripcion": "Empresa líder en la industria de bebidas, enfocada en la distribución y comercialización de productos refrescantes en México y Latinoamérica.",
+        "link": "https://play.google.com/store/apps/details?id=mx.com.praxis.bepensa",
+        "lenguajes": ["Java", "Kotlin"],
+        "puesto": "Desarrollador Android",
+        "periodo": "Noviembre 2024 a Junio 2025",
+        "nombre-app": "App Bepensa y App Bepensa Dominicana",
+        "img": [
+            "/getFile/bepensa/1.png",
+            "/getFile/bepensa/2.png",
+            "/getFile/bepensa/3.png"
+        ]
+    }
+]

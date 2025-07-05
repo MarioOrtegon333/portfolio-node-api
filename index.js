@@ -2,19 +2,16 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
 const cors = require('cors');
-const FileController = require('./controllers/fileController');
+const mainRoutes = require('./src/routes/empresas');
+
 
 app.use(cors());
+app.use(express.json());
 
-app.get('/', (req, res) => {
-  res.send('Hola desde Render');
-});
-
-app.get('/getFile/:id/:name', FileController.sendImage); 
-
-app.get('/hello', (req, res) => {
-  res.json({ message: 'Hola desde Vercel con Node.js + Express!' });
-});
+//#:::::: CARGANDO RUTAS...
+//app.use(require('./src/routes/empresas.js'));
+// Usa las rutas en la raíz del servidor
+app.use('/', mainRoutes);
 
 app.listen(port, () => {
   console.log(`Servidor corriendo en el puerto ${port}`);
